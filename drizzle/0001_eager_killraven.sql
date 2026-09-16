@@ -1,0 +1,1 @@
+ALTER TABLE "hookrelay"."relays" ADD COLUMN "user_id" text;
